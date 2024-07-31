@@ -12,3 +12,4 @@ https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-
 2. Create file __main__.py
 3. "Compile" them with "python -m zipapp -o reverse_shell.pyzw ."
    
+![image](https://github.com/user-attachments/assets/54fb446b-23c6-44ee-ac34-1065f552f73f)
